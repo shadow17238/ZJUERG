@@ -1,0 +1,41 @@
+site_name: 浙学润心・知途不惑
+site_url: https://你的用户名.github.io/nsep/
+theme:
+  name: material
+  language: zh
+  palette:
+    - scheme: default
+      primary: green
+      accent: green
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+  - tables
+
+nav:
+  - 主页: index.md
+  - 学院导览: college-guide.md
+  - 课程导航: course-navigation.md
+  - 通识课程: general-education/index.md
+  - 专业基础课: professional-basic/index.md
+  - 专业必修课: professional-required/index.md
+  - 专业方向/选修课程: professional-elective/index.md
+  - 实践教学: practical-teaching/index.md
+  - 升学之路: further-education/index.md
+
+plugins:
+  - search
