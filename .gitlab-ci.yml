@@ -1,0 +1,20 @@
+stages:
+  - deploy
+
+pages:
+  stage: deploy
+  script:
+    - pip3 config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+    - pip3 install --user --upgrade pip
+    - pip3 install --user mkdocs mkdocs-material
+    - python3 -m mkdocs build --site-dir public
+    - find public -name "*.pdf" -delete
+    - find public -name "*.docx" -delete
+    - find public -name "*.txt" -size +100k -delete
+  artifacts:
+    paths:
+      - public
+  tags:
+    - pages
+  only:
+    - main

@@ -1,0 +1,374 @@
+/* ============================================
+   Academic Botanica — 浙学润心・知途不惑
+   A scholarly aesthetic inspired by natural
+   history journals and botanical traditions.
+   ============================================ */
+
+/* --- Root Variables --- */
+:root {
+  --md-primary-fg-color: #1a472a;
+  --md-primary-fg-color--light: #2d6b42;
+  --md-primary-fg-color--dark: #0f2e1a;
+  --md-accent-fg-color: #c4a35a;
+  --md-accent-fg-color--transparent: rgba(196, 163, 90, 0.1);
+  --md-default-bg-color: #faf8f3;
+  --md-default-fg-color: #2c2c2c;
+  --md-code-bg-color: #f0ede5;
+  --md-code-fg-color: #1a472a;
+}
+
+/* --- Typography --- */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Noto+Serif+SC:wght@400;600;700&family=Source+Sans+3:ital,wght@0,300;0,400;0,600;1,400&display=swap');
+
+body,
+.md-typeset {
+  font-family: 'Source Sans 3', 'Noto Sans SC', sans-serif;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  font-family: 'Cormorant Garamond', 'Noto Serif SC', serif;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--md-primary-fg-color--dark);
+}
+
+.md-typeset h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 0.8em;
+  padding-bottom: 0.4em;
+  border-bottom: 2px solid var(--md-accent-fg-color);
+}
+
+.md-typeset h2 {
+  font-size: 1.6rem;
+  margin-top: 2em;
+  position: relative;
+  padding-left: 0.8em;
+}
+
+.md-typeset h2::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.15em;
+  width: 4px;
+  height: 1.1em;
+  background: linear-gradient(180deg, var(--md-accent-fg-color), var(--md-primary-fg-color--light));
+  border-radius: 2px;
+}
+
+.md-typeset h3 {
+  font-size: 1.25rem;
+  color: var(--md-primary-fg-color);
+}
+
+/* --- Body & Background --- */
+body {
+  background-color: var(--md-default-bg-color);
+  background-image:
+    radial-gradient(ellipse at 20% 50%, rgba(26, 71, 42, 0.03) 0%, transparent 50%),
+    radial-gradient(ellipse at 80% 20%, rgba(196, 163, 90, 0.04) 0%, transparent 50%),
+    radial-gradient(ellipse at 60% 80%, rgba(45, 107, 66, 0.02) 0%, transparent 40%);
+}
+
+/* --- Header --- */
+.md-header {
+  background: linear-gradient(135deg, #0f2e1a 0%, #1a472a 40%, #2d6b42 100%);
+  box-shadow: 0 2px 20px rgba(15, 46, 26, 0.15);
+}
+
+.md-header .md-nav__link {
+  color: rgba(255, 255, 255, 0.85);
+  font-weight: 500;
+  transition: color 0.25s ease;
+}
+
+.md-header .md-nav__link:hover,
+.md-header .md-nav__link--active {
+  color: #fff;
+}
+
+.md-header .md-nav__link--active::before {
+  background-color: var(--md-accent-fg-color);
+}
+
+/* --- Navigation Tabs --- */
+.md-tabs {
+  background: linear-gradient(135deg, #0f2e1a 0%, #1a472a 50%, #2d6b42 100%);
+}
+
+.md-tabs .md-tabs__item--active .md-tabs__link {
+  color: #fff;
+  border-bottom-color: var(--md-accent-fg-color);
+}
+
+.md-tabs .md-tabs__link {
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: 500;
+  transition: all 0.25s ease;
+}
+
+.md-tabs .md-tabs__link:hover {
+  color: rgba(255, 255, 255, 0.95);
+}
+
+/* --- Sidebar Navigation --- */
+.md-nav--primary .md-nav__item--active > .md-nav__link {
+  color: var(--md-primary-fg-color);
+  font-weight: 600;
+}
+
+.md-nav--primary .md-nav__item--active > .md-nav__link::before {
+  background-color: var(--md-accent-fg-color);
+}
+
+/* --- Content Area --- */
+.md-main__inner {
+  max-width: 100%;
+}
+
+.md-content {
+  background: transparent;
+}
+
+/* --- Links --- */
+.md-typeset a {
+  color: var(--md-primary-fg-color);
+  text-decoration-color: var(--md-accent-fg-color);
+  text-underline-offset: 3px;
+  transition: all 0.2s ease;
+}
+
+.md-typeset a:hover {
+  color: var(--md-primary-fg-color--light);
+  text-decoration-color: var(--md-primary-fg-color--light);
+}
+
+/* --- Admonitions (Note boxes) --- */
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 6px;
+  border-left-width: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+.md-typeset .admonition.note,
+.md-typeset details.note {
+  border-color: var(--md-primary-fg-color);
+  background-color: rgba(26, 71, 42, 0.04);
+}
+
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  border-color: var(--md-accent-fg-color);
+  background-color: rgba(196, 163, 90, 0.06);
+}
+
+.md-typeset .admonition-title,
+.md-typeset summary {
+  font-family: 'Cormorant Garamond', 'Noto Serif SC', serif;
+  font-weight: 600;
+}
+
+/* --- Tables --- */
+.md-typeset table {
+  border-radius: 6px;
+  overflow: hidden;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.06);
+  font-size: 0.85rem;
+}
+
+.md-typeset table thead {
+  background: linear-gradient(135deg, var(--md-primary-fg-color) 0%, var(--md-primary-fg-color--light) 100%);
+  color: #fff;
+}
+
+.md-typeset table thead th {
+  font-family: 'Cormorant Garamond', 'Noto Serif SC', serif;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  padding: 0.8em 1em;
+  border: none;
+}
+
+.md-typeset table tbody tr {
+  transition: background-color 0.2s ease;
+}
+
+.md-typeset table tbody tr:hover {
+  background-color: rgba(26, 71, 42, 0.04);
+}
+
+.md-typeset table tbody td {
+  padding: 0.65em 1em;
+  border-color: rgba(0, 0, 0, 0.06);
+}
+
+.md-typeset table tbody tr:nth-child(even) {
+  background-color: rgba(26, 71, 42, 0.02);
+}
+
+/* --- Blockquotes --- */
+.md-typeset blockquote {
+  border-left: 3px solid var(--md-accent-fg-color);
+  background: linear-gradient(135deg, rgba(196, 163, 90, 0.06) 0%, rgba(26, 71, 42, 0.03) 100%);
+  border-radius: 0 6px 6px 0;
+  font-style: italic;
+  color: var(--md-default-fg-color--light);
+}
+
+/* --- Code Blocks --- */
+.md-typeset code {
+  border-radius: 4px;
+  padding: 0.15em 0.4em;
+  font-size: 0.85em;
+  background-color: var(--md-code-bg-color);
+  color: var(--md-code-fg-color);
+  border: 1px solid rgba(26, 71, 42, 0.1);
+}
+
+.md-typeset pre > code {
+  border-radius: 8px;
+  border: none;
+}
+
+/* --- Footer --- */
+.md-footer {
+  background: linear-gradient(135deg, #0f2e1a 0%, #1a472a 100%);
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.md-footer a {
+  color: var(--md-accent-fg-color);
+}
+
+.md-footer__copyright {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+/* --- Search --- */
+.md-search__form {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.md-search__input {
+  border-radius: 8px !important;
+  background-color: rgba(255, 255, 255, 0.15);
+  border: 1.5px solid rgba(255, 255, 255, 0.2);
+  color: #fff;
+  transition: all 0.3s ease;
+}
+
+.md-search__input::placeholder {
+  color: rgba(255, 255, 255, 0.55);
+}
+
+.md-search__input:focus {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-color: rgba(255, 255, 255, 0.4);
+  box-shadow: none;
+}
+
+/* --- Back to Top Button --- */
+.md-top {
+  background: var(--md-primary-fg-color);
+  color: #fff;
+  box-shadow: 0 4px 12px rgba(26, 71, 42, 0.3);
+  transition: all 0.3s ease;
+}
+
+.md-top:hover {
+  background: var(--md-primary-fg-color--light);
+  box-shadow: 0 6px 16px rgba(26, 71, 42, 0.4);
+}
+
+/* --- Horizontal Rules --- */
+.md-typeset hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--md-accent-fg-color), transparent);
+  margin: 2em 0;
+}
+
+/* --- Scrollbar Styling --- */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.03);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(26, 71, 42, 0.25);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(26, 71, 42, 0.4);
+}
+
+/* --- Selection Highlight --- */
+::selection {
+  background: rgba(196, 163, 90, 0.25);
+  color: var(--md-primary-fg-color--dark);
+}
+
+/* --- Tab Styling (for further-education page) --- */
+.tab-button {
+  font-family: 'Cormorant Garamond', 'Noto Serif SC', serif !important;
+  border-radius: 4px 4px 0 0 !important;
+  transition: all 0.25s ease !important;
+}
+
+.tab-button.active {
+  background: var(--md-primary-fg-color) !important;
+  color: #fff !important;
+  border-color: var(--md-primary-fg-color) !important;
+}
+
+.tab-content {
+  border-color: var(--md-primary-fg-color--light) !important;
+  border-radius: 0 6px 6px 6px !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06) !important;
+}
+
+/* --- Animations --- */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.md-content {
+  animation: fadeInUp 0.4s ease-out;
+}
+
+/* --- Print Styles --- */
+@media print {
+  .md-header,
+  .md-tabs,
+  .md-sidebar,
+  .md-footer {
+    display: none !important;
+  }
+
+  body {
+    background: #fff;
+  }
+
+  .md-typeset {
+    color: #000;
+  }
+}
