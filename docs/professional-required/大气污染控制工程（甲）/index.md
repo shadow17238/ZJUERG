@@ -30,12 +30,12 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
-    <span class="cp-section-icon notes">笔</span>
-    <h2>笔记</h2>
+    <span class="cp-section-icon notes">资</span>
+    <h2>课程资料</h2>
   </div>
-  <div class="cp-empty">
-    <p>笔记内容待更新，欢迎贡献。</p>
-  </div>
+  <ul>
+    <li><a href="pdfs/大气污染控制工程知识点大纲（来源：cc98 Memoer）.pdf">大气污染控制工程知识点大纲</a> — @Memoer</li>
+  </ul>
 </div>
 
 <div class="cp-section">
@@ -43,7 +43,8 @@
     <span class="cp-section-icon exams">卷</span>
     <h2>历年卷</h2>
   </div>
-  <div class="cp-empty">
-    <p>历年试卷待上传，欢迎贡献。</p>
-  </div>
+  <ul>
+    <li><a href="pdfs/大气污染控制工程22-23春夏回忆卷（来源：cc98 山止川行）.pdf">22-23 春夏回忆卷</a> — @山止川行</li>
+    <li><a href="pdfs/大气污染控制工程23-24春夏（来源：cc98 Memoer）.pdf">23-24 春夏回忆卷</a> — @Memoer</li>
+  </ul>
 </div>

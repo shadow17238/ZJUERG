@@ -30,11 +30,11 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
-    <span class="cp-section-icon notes">笔</span>
-    <h2>笔记</h2>
+    <span class="cp-section-icon notes">资</span>
+    <h2>课程资料</h2>
   </div>
   <div class="cp-empty">
-    <p>笔记内容待更新，欢迎贡献。</p>
+    <p>课程资料待上传，欢迎贡献。</p>
   </div>
 </div>
 
@@ -43,7 +43,7 @@
     <span class="cp-section-icon exams">卷</span>
     <h2>历年卷</h2>
   </div>
-  <div class="cp-empty">
-    <p>历年试卷待上传，欢迎贡献。</p>
-  </div>
+  <ul>
+    <li><a href="pdfs/水污染控制工程24-25秋冬回忆卷（来源：cc98 实在难蚌.docx">24-25 秋冬回忆卷</a> — @实在难蚌</li>
+  </ul>
 </div>

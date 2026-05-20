@@ -30,12 +30,12 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
-    <span class="cp-section-icon notes">笔</span>
-    <h2>笔记</h2>
+    <span class="cp-section-icon notes">资</span>
+    <h2>课程资料</h2>
   </div>
-  <div class="cp-empty">
-    <p>笔记内容待更新，欢迎贡献。</p>
-  </div>
+  <ul>
+    <li><a href="https://pan.baidu.com/s/1HgV003ikD40EvLwHKfFBgQ?pwd=pswn">固废笔记（百度网盘）</a> — @恒星转圈圈</li>
+  </ul>
 </div>
 
 <div class="cp-section">
@@ -43,7 +43,9 @@
     <span class="cp-section-icon exams">卷</span>
     <h2>历年卷</h2>
   </div>
-  <div class="cp-empty">
-    <p>历年试卷待上传，欢迎贡献。</p>
-  </div>
+  <ul>
+    <li><a href="pdfs/固体废物处理与处置23-24春夏回忆卷（来源：cc98 山止川行）.pdf">23-24 春夏回忆卷</a> — @山止川行</li>
+    <li><a href="pdfs/固体废物处理与处置24-25春夏回忆卷（来源：cc98 CCCKKKK）.pdf">24-25 春夏回忆卷</a> — @CCCKKKK</li>
+    <li><a href="pdfs/固体废物处理与处置25-26回忆卷（来源：cc98 Ash666）.pdf">25-26 回忆卷</a> — @Ash666</li>
+  </ul>
 </div>

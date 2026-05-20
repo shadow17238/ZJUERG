@@ -30,12 +30,12 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
-    <span class="cp-section-icon notes">笔</span>
-    <h2>笔记</h2>
+    <span class="cp-section-icon notes">资</span>
+    <h2>课程资料</h2>
   </div>
-  <div class="cp-empty">
-    <p>笔记内容待更新，欢迎贡献。</p>
-  </div>
+  <ul>
+    <li><a href="pdfs/环境监测复习资料（来源：cc98 海泡补丁）.pdf">复习资料</a> — @海泡补丁</li>
+  </ul>
 </div>
 
 <div class="cp-section">
@@ -43,7 +43,7 @@
     <span class="cp-section-icon exams">卷</span>
     <h2>历年卷</h2>
   </div>
-  <div class="cp-empty">
-    <p>历年试卷待上传，欢迎贡献。</p>
-  </div>
+  <ul>
+    <li><a href="pdfs/环境监测（甲）24-25春夏回忆卷（来源：cc98凳子摆不齐）.pdf">24-25 春夏回忆卷</a> — @凳子摆不齐</li>
+  </ul>
 </div>
