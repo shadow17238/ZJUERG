@@ -31,9 +31,9 @@
     <span class="cp-section-icon exams">卷</span>
     <h2>历年卷</h2>
   </div>
-  <div class="cp-empty">
-    <p>历年试卷待上传，欢迎贡献。</p>
-  </div>
+  <ul>
+    <li><a href="pdfs/【回忆卷】25-26秋冬   cr(南城花已开).pdf">25-26 秋冬</a> — @南城花已开</li>
+  </ul>
 </div>
 
 <div class="cp-section">

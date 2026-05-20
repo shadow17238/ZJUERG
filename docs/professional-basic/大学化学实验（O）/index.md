@@ -19,11 +19,17 @@
 <div class="cp-section">
   <div class="cp-section-header">
     <span class="cp-section-icon notes">笔</span>
-    <h2>笔记</h2>
+    <h2>实验报告</h2>
   </div>
-  <div class="cp-empty">
-    <p>笔记内容待更新，欢迎贡献。</p>
-  </div>
+  <ul>
+    <li><a href="pdfs/【实验报告】简单蒸馏  cr(风不知何起).pdf">简单蒸馏</a> — @风不知何起</li>
+    <li><a href="pdfs/【实验报告】减压蒸馏 cr(君河).pdf">减压蒸馏</a> — @君河</li>
+    <li><a href="pdfs/【实验报告】薄层色谱与柱色谱 cr(君河).pdf">薄层色谱与柱色谱</a> — @君河</li>
+    <li><a href="pdfs/【实验报告】聚乙烯醇水凝胶的制备 cr(君河).pdf">聚乙烯醇水凝胶的制备</a> — @君河</li>
+    <li><a href="pdfs/【实验报告】茶叶中咖啡因的提取 cr(君河).pdf">茶叶中咖啡因的提取</a> — @君河</li>
+    <li><a href="pdfs/【实验报告】1-溴丁烷的合成 cr(君河).pdf">1-溴丁烷的合成</a> — @君河</li>
+    <li><a href="pdfs/【实验报告】乙酰苯胺的合成 cr(君河).pdf">乙酰苯胺的合成</a> — @君河</li>
+  </ul>
 </div>
 
 <div class="cp-section">
@@ -31,9 +37,10 @@
     <span class="cp-section-icon exams">卷</span>
     <h2>历年卷</h2>
   </div>
-  <div class="cp-empty">
-    <p>历年试卷待上传，欢迎贡献。</p>
-  </div>
+  <ul>
+    <li><a href="pdfs/【回忆卷】24-25 春夏 理论考  cr(H2668).pdf">24-25 春夏 理论考</a> — @H2668</li>
+    <li><a href="pdfs/【回忆卷】25-26秋冬 理论考  cr(鱼yuh).pdf">25-26 秋冬 理论考</a> — @鱼yuh</li>
+  </ul>
 </div>
 
 <div class="cp-section">

@@ -32,9 +32,9 @@
     <h2>历年卷</h2>
   </div>
   <ul>
-    <li><a href="【历年卷】微积分乙(II) 期中.pdf">微积分乙(II) 期中</a></li>
-    <li><a href="【历年卷】微积分乙（II）期末.pdf">微积分乙（II）期末</a></li>
-    <li><a href="【历年卷】微积分乙（Ⅰ）期末 cr(YLSerein).pdf">微积分乙（Ⅰ）期末</a> — @YLSerein</li>
+    <li><a href="pdfs/【历年卷】微积分乙(II) 期中.pdf">微积分乙(II) 期中</a></li>
+    <li><a href="pdfs/【历年卷】微积分乙（II）期末.pdf">微积分乙（II）期末</a></li>
+    <li><a href="pdfs/【历年卷】微积分乙（Ⅰ）期末 cr(YLSerein).pdf">微积分乙（Ⅰ）期末</a> — @YLSerein</li>
   </ul>
 </div>
 

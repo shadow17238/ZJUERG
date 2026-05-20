@@ -21,9 +21,9 @@
     <span class="cp-section-icon notes">笔</span>
     <h2>笔记</h2>
   </div>
-  <div class="cp-empty">
-    <p>笔记内容待更新，欢迎贡献。</p>
-  </div>
+  <ul>
+    <li><a href="pdfs/【资料】半开卷资料   cr(LioraBard).pdf">半开卷资料</a> — @LioraBard</li>
+  </ul>
 </div>
 
 <div class="cp-section">
@@ -31,9 +31,10 @@
     <span class="cp-section-icon exams">卷</span>
     <h2>历年卷</h2>
   </div>
-  <div class="cp-empty">
-    <p>历年试卷待上传，欢迎贡献。</p>
-  </div>
+  <ul>
+    <li><a href="pdfs/【回忆卷】23-24  夏  期末   cr(高爆山雀).pdf">23-24 夏 期末</a> — @高爆山雀</li>
+    <li><a href="pdfs/【回忆卷】24-25 冬  期末  cr(yzqbaymac).pdf">24-25 冬 期末</a> — @yzqbaymac</li>
+  </ul>
 </div>
 
 <div class="cp-section">

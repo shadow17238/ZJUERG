@@ -21,9 +21,9 @@
     <span class="cp-section-icon notes">笔</span>
     <h2>笔记</h2>
   </div>
-  <div class="cp-empty">
-    <p>笔记内容待更新，欢迎贡献。</p>
-  </div>
+  <ul>
+    <li><a href="pdfs/【资料】复习整理  cr(恒星转圈圈).pdf">复习整理</a> — @恒星转圈圈</li>
+  </ul>
 </div>
 
 <div class="cp-section">
@@ -31,9 +31,9 @@
     <span class="cp-section-icon exams">卷</span>
     <h2>历年卷</h2>
   </div>
-  <div class="cp-empty">
-    <p>历年试卷待上传，欢迎贡献。</p>
-  </div>
+  <ul>
+    <li><a href="pdfs/【回忆卷】24-25春夏 理论考  cr(你们好).pdf">24-25 春夏 理论考</a> — @你们好</li>
+  </ul>
 </div>
 
 <div class="cp-section">

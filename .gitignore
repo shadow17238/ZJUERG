@@ -36,3 +36,7 @@ wheels/
 # 系统文件
 .DS_Store
 Thumbs.db
+
+# 大文件（超过GitHub 100MB限制）
+docs/general-education/大学物理（乙）II/pdfs/【教材】工程物理学第三版  cr(emo小熹).pdf
+docs/professional-basic/有机化学/pdfs/【教材】有机化学电子书  cr(H2668).pdf

@@ -21,19 +21,11 @@
     <span class="cp-section-icon notes">笔</span>
     <h2>笔记</h2>
   </div>
-  <div class="cp-empty">
-    <p>笔记内容待更新，欢迎贡献。</p>
-  </div>
-</div>
-
-<div class="cp-section">
-  <div class="cp-section-header">
-    <span class="cp-section-icon exams">卷</span>
-    <h2>历年卷</h2>
-  </div>
-  <div class="cp-empty">
-    <p>历年试卷待上传，欢迎贡献。</p>
-  </div>
+  <ul>
+    <li><a href="pdfs/【资料】知识点整理（1） cr(Kita_kita).pdf">知识点整理（1）</a> — @Kita_kita</li>
+    <li><a href="pdfs/【资料】知识点整理（2） cr(Kita_kita).pdf">知识点整理（2）</a> — @Kita_kita</li>
+    <li><a href="pdfs/【资料】知识点整理（3） cr(Kita_kita).pdf">知识点整理（3）</a> — @Kita_kita</li>
+  </ul>
 </div>
 
 <div class="cp-section">
