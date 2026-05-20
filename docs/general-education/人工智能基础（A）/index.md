@@ -42,6 +42,6 @@
     <h2>历年卷</h2>
   </div>
   <ul>
-    <li><a href="回忆卷 cr(Oizys2517).docx">回忆卷</a> — @Oizys2517</li>
+    <li><a href="pdfs/回忆卷 cr(Oizys2517).docx">回忆卷</a> — @Oizys2517</li>
   </ul>
 </div>
