@@ -28,21 +28,21 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
-    <span class="cp-section-icon exams">卷</span>
-    <h2>历年卷</h2>
-  </div>
-  <ul>
-    <li><a href="pdfs/23-24春夏回忆卷  cr(今予）.pdf">23-24春夏回忆卷</a> — @今予</li>
-  </ul>
-</div>
-
-<div class="cp-section">
-  <div class="cp-section-header">
     <span class="cp-section-icon notes">资</span>
     <h2>课程资料</h2>
   </div>
   <ul>
     <li><a href="pdfs/马克思主义基本原理  复习资料  cr (sleepy_jhy).docx">复习资料</a> — @sleepy_jhy</li>
     <li><a href="pdfs/马克思主义基本原理 复习资料  cr(LouiseHey).pdf">复习资料</a> — @LouiseHey</li>
+  </ul>
+</div>
+
+<div class="cp-section">
+  <div class="cp-section-header">
+    <span class="cp-section-icon exams">卷</span>
+    <h2>历年卷</h2>
+  </div>
+  <ul>
+    <li><a href="pdfs/23-24春夏回忆卷  cr(今予）.pdf">23-24春夏回忆卷</a> — @今予</li>
   </ul>
 </div>

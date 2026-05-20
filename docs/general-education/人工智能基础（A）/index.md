@@ -28,20 +28,20 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
-    <span class="cp-section-icon exams">卷</span>
-    <h2>历年卷</h2>
-  </div>
-  <ul>
-    <li><a href="回忆卷 cr(Oizys2517).docx">回忆卷</a> — @Oizys2517</li>
-  </ul>
-</div>
-
-<div class="cp-section">
-  <div class="cp-section-header">
     <span class="cp-section-icon notes">资</span>
     <h2>课程资料</h2>
   </div>
   <ul>
     <li><a href="pdfs/人工智能基础复习资料  cr(泠皙).pdf">人工智能基础复习资料</a> — @泠皙</li>
+  </ul>
+</div>
+
+<div class="cp-section">
+  <div class="cp-section-header">
+    <span class="cp-section-icon exams">卷</span>
+    <h2>历年卷</h2>
+  </div>
+  <ul>
+    <li><a href="回忆卷 cr(Oizys2517).docx">回忆卷</a> — @Oizys2517</li>
   </ul>
 </div>

@@ -18,6 +18,16 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
+    <span class="cp-section-icon exp">经</span>
+    <h2>课程经验</h2>
+  </div>
+  <div class="cp-empty">
+    <p>课程经验待撰写，欢迎贡献。</p>
+  </div>
+</div>
+
+<div class="cp-section">
+  <div class="cp-section-header">
     <span class="cp-section-icon notes">笔</span>
     <h2>笔记</h2>
   </div>
@@ -34,14 +44,4 @@
   <ul>
     <li><a href="pdfs/【回忆卷】25-26秋冬   cr(南城花已开).pdf">25-26 秋冬</a> — @南城花已开</li>
   </ul>
-</div>
-
-<div class="cp-section">
-  <div class="cp-section-header">
-    <span class="cp-section-icon exp">经</span>
-    <h2>课程经验</h2>
-  </div>
-  <div class="cp-empty">
-    <p>课程经验待撰写，欢迎贡献。</p>
-  </div>
 </div>

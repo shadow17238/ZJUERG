@@ -28,6 +28,16 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
+    <span class="cp-section-icon notes">资</span>
+    <h2>课程资料</h2>
+  </div>
+  <div class="cp-empty">
+    <p>课程资料待上传，欢迎贡献。</p>
+  </div>
+</div>
+
+<div class="cp-section">
+  <div class="cp-section-header">
     <span class="cp-section-icon exams">卷</span>
     <h2>历年卷</h2>
   </div>
@@ -36,14 +46,4 @@
     <li><a href="pdfs/【历年卷】微积分乙（II）期末.pdf">微积分乙（II）期末</a></li>
     <li><a href="pdfs/【历年卷】微积分乙（Ⅰ）期末 cr(YLSerein).pdf">微积分乙（Ⅰ）期末</a> — @YLSerein</li>
   </ul>
-</div>
-
-<div class="cp-section">
-  <div class="cp-section-header">
-    <span class="cp-section-icon notes">资</span>
-    <h2>课程资料</h2>
-  </div>
-  <div class="cp-empty">
-    <p>课程资料待上传，欢迎贡献。</p>
-  </div>
 </div>

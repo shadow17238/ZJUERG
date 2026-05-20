@@ -18,6 +18,16 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
+    <span class="cp-section-icon exp">经</span>
+    <h2>课程经验</h2>
+  </div>
+  <div class="cp-empty">
+    <p>课程经验待撰写，欢迎贡献。</p>
+  </div>
+</div>
+
+<div class="cp-section">
+  <div class="cp-section-header">
     <span class="cp-section-icon notes">笔</span>
     <h2>笔记</h2>
   </div>
@@ -26,14 +36,4 @@
     <li><a href="pdfs/【资料】课程笔记2   cr(三元环).pdf">课程笔记2</a> — @三元环</li>
     <li><a href="pdfs/【资料】重要反应式  cr(rwb).pdf">重要反应式</a> — @rwb</li>
   </ul>
-</div>
-
-<div class="cp-section">
-  <div class="cp-section-header">
-    <span class="cp-section-icon exp">经</span>
-    <h2>课程经验</h2>
-  </div>
-  <div class="cp-empty">
-    <p>课程经验待撰写，欢迎贡献。</p>
-  </div>
 </div>

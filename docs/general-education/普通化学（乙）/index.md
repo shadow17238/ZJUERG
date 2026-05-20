@@ -28,6 +28,16 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
+    <span class="cp-section-icon notes">资</span>
+    <h2>课程资料</h2>
+  </div>
+  <div class="cp-empty">
+    <p>课程资料待上传，欢迎贡献。</p>
+  </div>
+</div>
+
+<div class="cp-section">
+  <div class="cp-section-header">
     <span class="cp-section-icon exams">卷</span>
     <h2>历年卷</h2>
   </div>
@@ -35,14 +45,4 @@
     <li><a href="pdfs/24-25夏回忆卷  （暮云）.pdf">24-25夏回忆卷</a> — @暮云</li>
     <li><a href="pdfs/24-25春夏回忆卷 （暮云）.pdf">24-25春夏回忆卷</a> — @暮云</li>
   </ul>
-</div>
-
-<div class="cp-section">
-  <div class="cp-section-header">
-    <span class="cp-section-icon notes">资</span>
-    <h2>课程资料</h2>
-  </div>
-  <div class="cp-empty">
-    <p>课程资料待上传，欢迎贡献。</p>
-  </div>
 </div>

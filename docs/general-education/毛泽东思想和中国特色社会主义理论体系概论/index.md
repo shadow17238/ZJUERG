@@ -28,20 +28,20 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
-    <span class="cp-section-icon exams">卷</span>
-    <h2>历年卷</h2>
-  </div>
-  <ul>
-    <li><a href="pdfs/毛泽东思想和中国特色社会主义理论体系概论  回忆卷  cr(归壹）.pdf">回忆卷</a> — @归壹</li>
-  </ul>
-</div>
-
-<div class="cp-section">
-  <div class="cp-section-header">
     <span class="cp-section-icon notes">资</span>
     <h2>课程资料</h2>
   </div>
   <ul>
     <li><a href="pdfs/毛泽东思想和中国特色社会主义理论体系概论  复习提纲 cr(巳汜）.pdf">复习提纲</a> — @巳汜</li>
+  </ul>
+</div>
+
+<div class="cp-section">
+  <div class="cp-section-header">
+    <span class="cp-section-icon exams">卷</span>
+    <h2>历年卷</h2>
+  </div>
+  <ul>
+    <li><a href="pdfs/毛泽东思想和中国特色社会主义理论体系概论  回忆卷  cr(归壹）.pdf">回忆卷</a> — @归壹</li>
   </ul>
 </div>

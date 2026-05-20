@@ -18,6 +18,16 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
+    <span class="cp-section-icon exp">经</span>
+    <h2>课程经验</h2>
+  </div>
+  <div class="cp-empty">
+    <p>课程经验待撰写，欢迎贡献。</p>
+  </div>
+</div>
+
+<div class="cp-section">
+  <div class="cp-section-header">
     <span class="cp-section-icon notes">笔</span>
     <h2>实验报告</h2>
   </div>
@@ -41,14 +51,4 @@
     <li><a href="pdfs/【回忆卷】24-25 春夏 理论考  cr(H2668).pdf">24-25 春夏 理论考</a> — @H2668</li>
     <li><a href="pdfs/【回忆卷】25-26秋冬 理论考  cr(鱼yuh).pdf">25-26 秋冬 理论考</a> — @鱼yuh</li>
   </ul>
-</div>
-
-<div class="cp-section">
-  <div class="cp-section-header">
-    <span class="cp-section-icon exp">经</span>
-    <h2>课程经验</h2>
-  </div>
-  <div class="cp-empty">
-    <p>课程经验待撰写，欢迎贡献。</p>
-  </div>
 </div>

@@ -28,6 +28,17 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
+    <span class="cp-section-icon notes">资</span>
+    <h2>课程资料</h2>
+  </div>
+  <ul>
+    <li><a href="pdfs/【教材】大学物理乙   教材习题答案.pdf">大学物理乙 教材习题答案</a></li>
+    <li><a href="pdfs/【教材】工程物理学第三版  cr(emo小熹).pdf">工程物理学第三版</a> — @emo小熹</li>
+  </ul>
+</div>
+
+<div class="cp-section">
+  <div class="cp-section-header">
     <span class="cp-section-icon exams">卷</span>
     <h2>历年卷</h2>
   </div>
@@ -35,16 +46,5 @@
     <li><a href="pdfs/【历年卷】大学物理乙(Ⅰ)  23-24春夏 期中.pdf">大学物理乙(Ⅰ) 23-24春夏 期中</a></li>
     <li><a href="pdfs/【历年卷】大学物理乙(Ⅰ) 24-25春夏 期中.pdf">大学物理乙(Ⅰ) 24-25春夏 期中</a></li>
     <li><a href="pdfs/【历年卷】大学物理乙（II）期末.pdf">大学物理乙（II）期末</a></li>
-  </ul>
-</div>
-
-<div class="cp-section">
-  <div class="cp-section-header">
-    <span class="cp-section-icon notes">资</span>
-    <h2>课程资料</h2>
-  </div>
-  <ul>
-    <li><a href="pdfs/【教材】大学物理乙   教材习题答案.pdf">大学物理乙 教材习题答案</a></li>
-    <li><a href="pdfs/【教材】工程物理学第三版  cr(emo小熹).pdf">工程物理学第三版</a> — @emo小熹</li>
   </ul>
 </div>

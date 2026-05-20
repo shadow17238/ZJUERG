@@ -16,6 +16,8 @@
 </style>
 
 
+
+
 <div class="cp-section">
   <div class="cp-section-header">
     <span class="cp-section-icon exp">经</span>
@@ -28,20 +30,20 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
-    <span class="cp-section-icon exams">卷</span>
-    <h2>历年卷</h2>
-  </div>
-  <div class="cp-empty">
-    <p>历年试卷待上传，欢迎贡献。</p>
-  </div>
-</div>
-
-<div class="cp-section">
-  <div class="cp-section-header">
     <span class="cp-section-icon notes">资</span>
     <h2>课程资料</h2>
   </div>
   <div class="cp-empty">
     <p>课程资料待上传，欢迎贡献。</p>
+  </div>
+</div>
+
+<div class="cp-section">
+  <div class="cp-section-header">
+    <span class="cp-section-icon exams">卷</span>
+    <h2>历年卷</h2>
+  </div>
+  <div class="cp-empty">
+    <p>历年试卷待上传，欢迎贡献。</p>
   </div>
 </div>

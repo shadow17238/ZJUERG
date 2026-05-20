@@ -18,20 +18,20 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
-    <span class="cp-section-icon notes">笔</span>
-    <h2>笔记</h2>
-  </div>
-  <ul>
-    <li><a href="pdfs/【资料】概统复习  cr(无响应发射).pdf">概统复习</a> — @无响应发射</li>
-  </ul>
-</div>
-
-<div class="cp-section">
-  <div class="cp-section-header">
     <span class="cp-section-icon exp">经</span>
     <h2>课程经验</h2>
   </div>
   <div class="cp-empty">
     <p>课程经验待撰写，欢迎贡献。</p>
   </div>
+</div>
+
+<div class="cp-section">
+  <div class="cp-section-header">
+    <span class="cp-section-icon notes">笔</span>
+    <h2>笔记</h2>
+  </div>
+  <ul>
+    <li><a href="pdfs/【资料】概统复习  cr(无响应发射).pdf">概统复习</a> — @无响应发射</li>
+  </ul>
 </div>

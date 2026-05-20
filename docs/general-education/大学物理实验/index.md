@@ -28,16 +28,6 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
-    <span class="cp-section-icon exams">卷</span>
-    <h2>历年卷</h2>
-  </div>
-  <div class="cp-empty">
-    <p>历年试卷待上传，欢迎贡献。</p>
-  </div>
-</div>
-
-<div class="cp-section">
-  <div class="cp-section-header">
     <span class="cp-section-icon notes">资</span>
     <h2>课程资料</h2>
   </div>
@@ -63,4 +53,14 @@
     <li><a href="pdfs/【实验报告】铁磁材料的磁滞回线和基本磁化曲线 cr(曦星).pdf">铁磁材料的磁滞回线和基本磁化曲线</a> — @曦星</li>
     <li><a href="pdfs/【实验报告】非平衡电桥  cr(曦星).pdf">非平衡电桥</a> — @曦星</li>
   </ul>
+</div>
+
+<div class="cp-section">
+  <div class="cp-section-header">
+    <span class="cp-section-icon exams">卷</span>
+    <h2>历年卷</h2>
+  </div>
+  <div class="cp-empty">
+    <p>历年试卷待上传，欢迎贡献。</p>
+  </div>
 </div>

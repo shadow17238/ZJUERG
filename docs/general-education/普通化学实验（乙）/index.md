@@ -28,16 +28,6 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
-    <span class="cp-section-icon exams">卷</span>
-    <h2>历年卷</h2>
-  </div>
-  <ul>
-    <li><a href="pdfs/【回忆卷】25-26秋冬理论考 cr(白昼日记).pdf">25-26秋冬理论考</a> — @白昼日记</li>
-  </ul>
-</div>
-
-<div class="cp-section">
-  <div class="cp-section-header">
     <span class="cp-section-icon notes">资</span>
     <h2>课程资料</h2>
   </div>
@@ -55,5 +45,15 @@
     <li><a href="pdfs/【实验报告】量气法测定摩尔气体常数  cr(君河).pdf">量气法测定摩尔气体常数</a> — @君河</li>
     <li><a href="pdfs/【实验报告】阿司匹林的制备和提纯  cr(君河）.pdf">阿司匹林的制备和提纯</a> — @君河</li>
     <li><a href="pdfs/【实验报告】阿司匹林的纯度分析  cr（君河）.pdf">阿司匹林的纯度分析</a> — @君河</li>
+  </ul>
+</div>
+
+<div class="cp-section">
+  <div class="cp-section-header">
+    <span class="cp-section-icon exams">卷</span>
+    <h2>历年卷</h2>
+  </div>
+  <ul>
+    <li><a href="pdfs/【回忆卷】25-26秋冬理论考 cr(白昼日记).pdf">25-26秋冬理论考</a> — @白昼日记</li>
   </ul>
 </div>
