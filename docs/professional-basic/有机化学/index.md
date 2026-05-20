@@ -25,7 +25,6 @@
     <li><a href="pdfs/【资料】课程笔记   cr(三元环).pdf">课程笔记</a> — @三元环</li>
     <li><a href="pdfs/【资料】课程笔记2   cr(三元环).pdf">课程笔记2</a> — @三元环</li>
     <li><a href="pdfs/【资料】重要反应式  cr(rwb).pdf">重要反应式</a> — @rwb</li>
-    <li><a href="pdfs/【教材】有机化学电子书  cr(H2668).pdf">有机化学电子书</a> — @H2668</li>
   </ul>
 </div>
 
