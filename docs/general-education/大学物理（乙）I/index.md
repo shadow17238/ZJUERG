@@ -33,7 +33,6 @@
   </div>
   <ul>
     <li><a href="pdfs/【教材】大学物理乙   教材习题答案.pdf">大学物理乙 教材习题答案</a></li>
-    <li><a href="pdfs/【教材】工程物理学第三版  cr(emo小熹).pdf">工程物理学第三版</a> — @emo小熹</li>
   </ul>
 </div>
 
