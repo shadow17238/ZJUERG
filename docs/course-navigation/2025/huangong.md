@@ -14,13 +14,13 @@
 
 | 课程号       | 课程名称                 | 学分  | 建议学年学期      | 站内状态 |
 | --------- | -------------------- | --- | ----------- | ---- |
-| ADMN1002G | [形势与政策I](../../general-education/形势与政策I/index.md)               | 1.0 | 一（秋冬）+一（春夏） | 待更新  |
-| MARX1001G | [思想道德与法治](../../general-education/思想道德与法治/index.md)              | 3.0 | 一（秋冬）       | 待更新  |
-| MARX1002G | [中国近现代史纲要](../../general-education/中国近现代史纲要/index.md)             | 3.0 | 一（秋冬）       | 待更新  |
-| MARX2001G | [马克思主义基本原理](../../general-education/马克思主义基本原理/index.md)            | 3.0 | 二（秋冬）/二（春夏） | 待更新  |
-| MARX3001G | [毛泽东思想和中国特色社会主义理论体系概论](../../general-education/毛泽东思想和中国特色社会主义理论体系概论/index.md) | 3.0 | 三（秋冬）/三（春夏） | 待更新  |
-| MARX3002G | [习近平新时代中国特色社会主义思想概论](../../general-education/习近平新时代中国特色社会主义思想概论/index.md)   | 3.0 | 二（秋冬）/三（春夏） | 待更新  |
-| ADMN2001G | [形势与政策II](../../general-education/形势与政策II/index.md)              | 1.0 | 四（春夏）       | 待更新  |
+| ADMN1002G | [形势与政策I](../../general-education/形势与政策I/index.md)               | 1.0 | 一（秋冬）+一（春夏） |
+| MARX1001G | [思想道德与法治](../../general-education/思想道德与法治/index.md)              | 3.0 | 一（秋冬）       |
+| MARX1002G | [中国近现代史纲要](../../general-education/中国近现代史纲要/index.md)             | 3.0 | 一（秋冬）       |
+| MARX2001G | [马克思主义基本原理](../../general-education/马克思主义基本原理/index.md)            | 3.0 | 二（秋冬）/二（春夏） | Done |
+| MARX3001G | [毛泽东思想和中国特色社会主义理论体系概论](../../general-education/毛泽东思想和中国特色社会主义理论体系概论/index.md) | 3.0 | 三（秋冬）/三（春夏） | Done |
+| MARX3002G | [习近平新时代中国特色社会主义思想概论](../../general-education/习近平新时代中国特色社会主义思想概论/index.md)   | 3.0 | 二（秋冬）/三（春夏） | Done |
+| ADMN2001G | [形势与政策II](../../general-education/形势与政策II/index.md)              | 1.0 | 四（春夏）       |
 
 #### 选修课
 
@@ -28,10 +28,10 @@
 
 | 课程号       | 课程名称    | 学分  | 建议学年学期              | 站内状态 |
 | --------- | ------- | --- | ------------------- | ---- |
-| ECON2001G | [中国改革开放史](../../general-education/中国改革开放史/index.md) | 1.5 | 二（秋）/二（冬）/二（春）/二（夏） | 待更新  |
-| HIST2001G | [新中国史](../../general-education/新中国史/index.md)    | 1.5 | 二（秋）/二（冬）/二（春）/二（夏） | 待更新  |
-| MARX2002G | [中国共产党历史](../../general-education/中国共产党历史/index.md) | 1.5 | 二（秋）/二（冬）/二（春）/二（夏） | 待更新  |
-| MARX2003G | [社会主义发展史](../../general-education/社会主义发展史/index.md) | 1.5 | 二（秋）/二（冬）/二（春）/二（夏） | 待更新  |
+| ECON2001G | [中国改革开放史](../../general-education/中国改革开放史/index.md) | 1.5 | 二（秋）/二（冬）/二（春）/二（夏） |
+| HIST2001G | [新中国史](../../general-education/新中国史/index.md)    | 1.5 | 二（秋）/二（冬）/二（春）/二（夏） |
+| MARX2002G | [中国共产党历史](../../general-education/中国共产党历史/index.md) | 1.5 | 二（秋）/二（冬）/二（春）/二（夏） |
+| MARX2003G | [社会主义发展史](../../general-education/社会主义发展史/index.md) | 1.5 | 二（秋）/二（冬）/二（春）/二（夏） |
 
 ### 2) 军体类
 
@@ -41,9 +41,9 @@
 
 | 课程号       | 课程名称   | 学分  | 建议学年学期      | 站内状态 |
 | --------- | ------ | --- | ----------- | ---- |
-| ADMN1001G | [军训](../../general-education/军训/index.md)     | 2.0 | 一（秋）        | 待更新  |
-| EDU2001G  | [军事理论](../../general-education/军事理论/index.md)   | 2.0 | 二（秋冬）/二（春夏） | 待更新  |
-| PPAE4001G | [体测与锻炼I](../../general-education/体测与锻炼I/index.md) | 0.5 | 四（秋冬）/四（春夏） | 待更新  |
+| ADMN1001G | [军训](../../general-education/军训/index.md)     | 2.0 | 一（秋）        |
+| EDU2001G  | [军事理论](../../general-education/军事理论/index.md)   | 2.0 | 二（秋冬）/二（春夏） |
+| PPAE4001G | [体测与锻炼I](../../general-education/体测与锻炼I/index.md) | 0.5 | 四（秋冬）/四（春夏） |
 
 ### 3) 外语类
 
@@ -53,7 +53,7 @@
 
 | 课程号      | 课程名称   | 学分  | 建议学年学期 | 站内状态 |
 | -------- | ------ | --- | ------ | ---- |
-| SIS1099G | [英语水平测试](../../general-education/英语水平测试/index.md) | 1.0 | <br /> | 待更新  |
+| SIS1099G | [英语水平测试](../../general-education/英语水平测试/index.md) | 1.0 | <br /> |
 
 #### 选修课
 
@@ -61,8 +61,8 @@
 
 | 课程号      | 课程名称    | 学分  | 建议学年学期      | 站内状态 |
 | -------- | ------- | --- | ----------- | ---- |
-| SIS1001G | [大学英语III](../../general-education/大学英语III/index.md) | 3.0 | 一（秋冬）       | 待更新  |
-| SIS1002G | [大学英语IV](../../general-education/大学英语IV/index.md)  | 3.0 | 一（秋冬）/一（春夏） | 待更新  |
+| SIS1001G | [大学英语III](../../general-education/大学英语III/index.md) | 3.0 | 一（秋冬）       |
+| SIS1002G | [大学英语IV](../../general-education/大学英语IV/index.md)  | 3.0 | 一（秋冬）/一（春夏） |
 
 ### 4) 计算机类
 
@@ -70,38 +70,36 @@
 
 | 课程号     | 课程名称       | 学分  | 建议学年学期 | 站内状态 |
 | ------- | ---------- | --- | ------ | ---- |
-| CS1006G | [Python程序设计](../../general-education/Python程序设计/index.md) | 3.0 | 一（秋冬）  | 待更新  |
-| CS1241G | [人工智能基础（A）](../../general-education/人工智能基础（A）/index.md)  | 2.0 | 一（春夏）  | 待更新  |
-
+| CS1006G | [Python程序设计](../../general-education/Python程序设计/index.md) | 3.0 | 一（秋冬）  |
+| CS1241G | [人工智能基础（A）](../../general-education/人工智能基础（A）/index.md)  | 2.0 | 一（春夏）  | Done |
 ### 5) 自然科学通识类
 
 > 25学分
 
 | 课程号       | 课程名称      | 学分  | 建议学年学期 | 站内状态 |
 | --------- | --------- | --- | ------ | ---- |
-| CHEM1003G | [普通化学（乙）](../../general-education/普通化学（乙）/index.md)   | 2.0 | 一（秋）   | 待更新  |
-| CHEM1006G | [普通化学实验（乙）](../../general-education/普通化学实验（乙）/index.md) | 1.5 | 一（秋冬）  | 待更新  |
-| MATH1133G | [微积分（乙）I](../../general-education/微积分（乙）I/index.md)   | 5.0 | 一（秋冬）  | 待更新  |
-| BIO1003G  | [生命科学导论](../../general-education/生命科学导论/index.md)    | 2.0 | 一（春夏）  | 待更新  |
-| MATH1134G | [微积分（乙）II](../../general-education/微积分（乙）II/index.md)  | 4.0 | 一（春夏）  | 待更新  |
-| MATH1233G | [线性代数（乙）](../../general-education/线性代数（乙）/index.md)   | 3.0 | 一（春夏）  | 待更新  |
-| PHY1002G  | [大学物理（乙）I](../../general-education/大学物理（乙）I/index.md)  | 3.0 | 一（春夏）  | 待更新  |
-| PHY2002G  | [大学物理（乙）II](../../general-education/大学物理（乙）II/index.md) | 3.0 | 二（秋冬）  | 待更新  |
-| PHY2005G  | [大学物理实验](../../general-education/大学物理实验/index.md)    | 1.5 | 二（秋冬）  | 待更新  |
-
+| CHEM1003G | [普通化学（乙）](../../general-education/普通化学（乙）/index.md)   | 2.0 | 一（秋）   | Done |
+| CHEM1006G | [普通化学实验（乙）](../../general-education/普通化学实验（乙）/index.md) | 1.5 | 一（秋冬）  | Done |
+| MATH1133G | [微积分（乙）I](../../general-education/微积分（乙）I/index.md)   | 5.0 | 一（秋冬）  | Done |
+| BIO1003G  | [生命科学导论](../../general-education/生命科学导论/index.md)    | 2.0 | 一（春夏）  |
+| MATH1134G | [微积分（乙）II](../../general-education/微积分（乙）II/index.md)  | 4.0 | 一（春夏）  | Done |
+| MATH1233G | [线性代数（乙）](../../general-education/线性代数（乙）/index.md)   | 3.0 | 一（春夏）  |
+| PHY1002G  | [大学物理（乙）I](../../general-education/大学物理（乙）I/index.md)  | 3.0 | 一（春夏）  | Done |
+| PHY2002G  | [大学物理（乙）II](../../general-education/大学物理（乙）II/index.md) | 3.0 | 二（秋冬）  | Done |
+| PHY2005G  | [大学物理实验](../../general-education/大学物理实验/index.md)    | 1.5 | 二（秋冬）  | Done |
 ## 2. 专业基础课程
 
 > 19.5学分
 
 | 课程号       | 课程名称      | 学分  | 建议学年学期 | 站内状态 |
 | --------- | --------- | --- | ------ | ---- |
-| CHEM1004F | [有机化学](../../professional-basic/有机化学/index.md)      | 4.0 | 二（秋冬）  | 待更新  |
-| CHEM1007F | [大学化学实验（O）](../../professional-basic/大学化学实验（O）/index.md) | 1.5 | 二（秋冬）  | 待更新  |
-| CHEM1002F | [分析化学（乙）](../../professional-basic/分析化学（乙）/index.md)   | 2.0 | 二（冬）   | 待更新  |
-| CHEM2001F | [物理化学](../../professional-basic/物理化学/index.md)      | 4.0 | 二（春夏）  | 待更新  |
-| CHEM2003F | [大学化学实验（P）](../../professional-basic/大学化学实验（P）/index.md) | 1.5 | 二（春夏）  | 待更新  |
-| MATH2432F | [概率论与数理统计](../../professional-basic/概率论与数理统计/index.md)  | 2.5 | 二（春夏）  | 待更新  |
-| CBE2003F  | [化工原理（乙）](../../professional-basic/化工原理（乙）/index.md)   | 4.0 | 三（秋冬）  | 待更新  |
+| CHEM1004F | [有机化学](../../professional-basic/有机化学/index.md)      | 4.0 | 二（秋冬）  | Done |
+| CHEM1007F | [大学化学实验（O）](../../professional-basic/大学化学实验（O）/index.md) | 1.5 | 二（秋冬）  | Done |
+| CHEM1002F | [分析化学（乙）](../../professional-basic/分析化学（乙）/index.md)   | 2.0 | 二（冬）   | Done |
+| CHEM2001F | [物理化学](../../professional-basic/物理化学/index.md)      | 4.0 | 二（春夏）  | Done |
+| CHEM2003F | [大学化学实验（P）](../../professional-basic/大学化学实验（P）/index.md) | 1.5 | 二（春夏）  | Done |
+| MATH2432F | [概率论与数理统计](../../professional-basic/概率论与数理统计/index.md)  | 2.5 | 二（春夏）  | Done |
+| CBE2003F  | [化工原理（乙）](../../professional-basic/化工原理（乙）/index.md)   | 4.0 | 三（秋冬）  |
 
 ## 3. 专业课程
 
@@ -113,20 +111,20 @@
 
 | 课程号       | 课程名称        | 学分  | 建议学年学期 | 站内状态 |
 | --------- | ----------- | --- | ------ | ---- |
-| ENVR2201M | [环境概论](../../professional-required/环境概论/index.md)        | 2.0 | 二（秋）   | 待更新  |
-| ENVR2202M | [环境监测实验（乙）](../../professional-required/环境监测实验（乙）/index.md)   | 1.5 | 二（秋冬）  | 待更新  |
-| ENVR2203M | [环境监测（乙）](../../professional-required/环境监测（乙）/index.md)     | 1.5 | 二（冬）   | 待更新  |
-| ENVR2201M | [环境微生物学实验](../../professional-required/环境微生物学实验/index.md)    | 1.0 | 二（春夏）  | 待更新  |
-| ENVR2205M | [环境微生物学](../../professional-required/环境微生物学/index.md)      | 4.0 | 二（春夏）  | 待更新  |
-| ENVR2206M | [环境规划与管理](../../professional-required/环境规划与管理/index.md)     | 2.0 | 三（秋）   | 待更新  |
-| ENVR3202M | [水污染控制工程](../../professional-required/水污染控制工程/index.md)     | 4.0 | 三（秋冬）  | 待更新  |
-| ENVR2207M | [水污染控制工程实验](../../professional-required/水污染控制工程实验/index.md)   | 1.5 | 三（秋冬）  | 待更新  |
-| ENVR2205M | [污染土壤修复原理与工程](../../professional-required/污染土壤修复原理与工程/index.md) | 1.5 | 三（冬）   | 待更新  |
-| ENVR3206M | [固体废物处理与处置](../../professional-required/固体废物处理与处置/index.md)   | 2.0 | 三（春）   | 待更新  |
-| ENVR2209M | [固体废物污染控制实验](../../professional-required/固体废物污染控制实验/index.md)  | 1.0 | 三（春）   | 待更新  |
-| ENVR2210M | [环境工程制图](../../professional-required/环境工程制图/index.md)      | 2.0 | 三（春）   | 待更新  |
-| ENVR3211M | [大气污染控制工程（甲）](../../professional-required/大气污染控制工程（甲）/index.md) | 4.0 | 三（春夏）  | 待更新  |
-| ENVR3212M | [大气污染控制工程实验](../../professional-required/大气污染控制工程实验/index.md)  | 1.0 | 三（春夏）  | 待更新  |
+| ENVR2201M | [环境概论](../../professional-required/环境概论/index.md)        | 2.0 | 二（秋）   |
+| ENVR2202M | [环境监测实验（乙）](../../professional-required/环境监测实验（乙）/index.md)   | 1.5 | 二（秋冬）  |
+| ENVR2203M | [环境监测（乙）](../../professional-required/环境监测（乙）/index.md)     | 1.5 | 二（冬）   |
+| ENVR2201M | [环境微生物学实验](../../professional-required/环境微生物学实验/index.md)    | 1.0 | 二（春夏）  | Done |
+| ENVR2205M | [环境微生物学](../../professional-required/环境微生物学/index.md)      | 4.0 | 二（春夏）  | Done |
+| ENVR2206M | [环境规划与管理](../../professional-required/环境规划与管理/index.md)     | 2.0 | 三（秋）   | Done |
+| ENVR3202M | [水污染控制工程](../../professional-required/水污染控制工程/index.md)     | 4.0 | 三（秋冬）  | Done |
+| ENVR2207M | [水污染控制工程实验](../../professional-required/水污染控制工程实验/index.md)   | 1.5 | 三（秋冬）  | Done |
+| ENVR2205M | [污染土壤修复原理与工程](../../professional-required/污染土壤修复原理与工程/index.md) | 1.5 | 三（冬）   | Done |
+| ENVR3206M | [固体废物处理与处置](../../professional-required/固体废物处理与处置/index.md)   | 2.0 | 三（春）   | Done |
+| ENVR2209M | [固体废物污染控制实验](../../professional-required/固体废物污染控制实验/index.md)  | 1.0 | 三（春）   |
+| ENVR2210M | [环境工程制图](../../professional-required/环境工程制图/index.md)      | 2.0 | 三（春）   |
+| ENVR3211M | [大气污染控制工程（甲）](../../professional-required/大气污染控制工程（甲）/index.md) | 4.0 | 三（春夏）  | Done |
+| ENVR3212M | [大气污染控制工程实验](../../professional-required/大气污染控制工程实验/index.md)  | 1.0 | 三（春夏）  |
 
 ### 2) 专业选修课程
 
@@ -134,13 +132,13 @@
 
 | 课程号       | 课程名称        | 学分  | 建议学年学期 | 站内状态 |
 | --------- | ----------- | --- | ------ | ---- |
-| ENVR2204M | [辐射防护工程](../../professional-elective/辐射防护工程/index.md)      | 1.5 | 三（春）   | 待更新  |
-| ENVR2002M | [噪声污染控制原理与技术](../../professional-elective/噪声污染控制原理与技术/index.md) | 1.5 | 二（夏）   | 待更新  |
-| ENVR2206M | [环境催化原理及应用](../../professional-elective/环境催化原理及应用/index.md)   | 1.5 | 二（夏）   | 待更新  |
-| ENVR2214M | [环境生态大数据](../../professional-elective/环境生态大数据/index.md)     | 1.5 | 三（秋）   | 待更新  |
-| ENVR2207M | [环境生物学](../../professional-elective/环境生物学/index.md)       | 1.5 | 三（春）   | 待更新  |
-| ENVR2208M | [环境生态工程](../../professional-elective/环境生态工程/index.md)      | 1.5 | 三（春）   | 待更新  |
-| ENVR2211M | [给水排水工程](../../professional-elective/给水排水工程/index.md)      | 1.5 | 三（夏）   | 待更新  |
+| ENVR2204M | [辐射防护工程](../../professional-elective/辐射防护工程/index.md)      | 1.5 | 三（春）   |
+| ENVR2002M | [噪声污染控制原理与技术](../../professional-elective/噪声污染控制原理与技术/index.md) | 1.5 | 二（夏）   |
+| ENVR2206M | [环境催化原理及应用](../../professional-elective/环境催化原理及应用/index.md)   | 1.5 | 二（夏）   |
+| ENVR2214M | [环境生态大数据](../../professional-elective/环境生态大数据/index.md)     | 1.5 | 三（秋）   |
+| ENVR2207M | [环境生物学](../../professional-elective/环境生物学/index.md)       | 1.5 | 三（春）   |
+| ENVR2208M | [环境生态工程](../../professional-elective/环境生态工程/index.md)      | 1.5 | 三（春）   |
+| ENVR2211M | [给水排水工程](../../professional-elective/给水排水工程/index.md)      | 1.5 | 三（夏）   |
 
 ## 4. 实践教学环节
 
@@ -148,7 +146,7 @@
 
 | 课程号       | 课程名称      | 学分  | 建议学年学期 | 站内状态 |
 | --------- | --------- | --- | ------ | ---- |
-| ENVR2215M | [认识实习](../../practical-teaching/认识实习/index.md)      | 2.0 | 二（短）   | 待更新  |
-| ENVR4214M | [未来技术创新实践](../../practical-teaching/未来技术创新实践/index.md)  | 1.5 | 二（春夏）  | 待更新  |
-| ENVR4208M | [生产实习与劳动教育](../../practical-teaching/生产实习与劳动教育/index.md) | 3.0 | 二（短）   | 待更新  |
-| ENVR4206M | [环境工程工艺设计](../../practical-teaching/环境工程工艺设计/index.md)  | 3.0 | 四（秋）   | 待更新  |
+| ENVR2215M | [认识实习](../../practical-teaching/认识实习/index.md)      | 2.0 | 二（短）   |
+| ENVR4214M | [未来技术创新实践](../../practical-teaching/未来技术创新实践/index.md)  | 1.5 | 二（春夏）  |
+| ENVR4208M | [生产实习与劳动教育](../../practical-teaching/生产实习与劳动教育/index.md) | 3.0 | 二（短）   |
+| ENVR4206M | [环境工程工艺设计](../../practical-teaching/环境工程工艺设计/index.md)  | 3.0 | 四（秋）   |
