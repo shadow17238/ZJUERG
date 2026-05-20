@@ -30,11 +30,11 @@
 
 <div class="cp-section">
   <div class="cp-section-header">
-    <span class="cp-section-icon notes">笔</span>
-    <h2>笔记</h2>
+    <span class="cp-section-icon notes">资</span>
+    <h2>课程资料</h2>
   </div>
   <div class="cp-empty">
-    <p>笔记内容待更新，欢迎贡献。</p>
+    <p>课程资料待上传，欢迎贡献。</p>
   </div>
 </div>
 
@@ -43,7 +43,7 @@
     <span class="cp-section-icon exams">卷</span>
     <h2>历年卷</h2>
   </div>
-  <div class="cp-empty">
-    <p>历年试卷待上传，欢迎贡献。</p>
-  </div>
+  <ul>
+    <li><a href="pdfs/辐射防护23-24春夏回忆卷（来源：tia1 最终.pdf">23-24 春夏回忆卷</a> — @tia1</li>
+  </ul>
 </div>
